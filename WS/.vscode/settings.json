@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "cstring": "c",
+        "server.h": "c",
+        "typeinfo": "c"
+    }
+}
