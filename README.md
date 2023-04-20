@@ -3,7 +3,7 @@ Prácticas de la asignatura Programación de Sistemas Distribuidos
 
 # Herramientas utilizadas 
 - Sockets
-- Web sevices
+- Web services
 - MPI
 
 # Lenguaje utilizado
